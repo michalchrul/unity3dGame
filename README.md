@@ -4,9 +4,7 @@
 ![alt text](https://i.imgur.com/fqXj8XD.png)
 
 
-# unity3dGame
-
-Features:
+# Features:
 
   Collision detection and response:
   - The character can't leave the restricted area which is surrounded by walls, can’t walk into objects like buildings, containers, abandoned cars and so on.
