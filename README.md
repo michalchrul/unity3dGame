@@ -26,7 +26,7 @@
   - A dynamic light source of a headlamp (spotlight) was attached to the character's forehead in order to help the player to find the collectable item.
 
   Default lights in Unity (realtime):
-  - Default lighting was placed in the game.
+  - Default lighting was placed in the scene.
 
   Bump/Normal maps:
   - A real-world graffiti wall was 3D scanned and imported into the scene with an additional normal map for surface's roughness.
